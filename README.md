@@ -62,23 +62,23 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=kkdjanakaeranda\&show_icons=true\&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kkdjanakaeranda\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkdjanakaeranda\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=yourusername\&theme=tokyonight\&no-frame=true\&row=1)
+![](https://github-profile-trophy.vercel.app/?username=kkdjanakaeranda\&theme=tokyonight\&no-frame=true\&row=1)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername\&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kkdjanakaeranda\&theme=tokyo-night)
 
 ---
 
